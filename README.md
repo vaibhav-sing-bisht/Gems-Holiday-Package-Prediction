@@ -9,4 +9,4 @@ In the second case, concepts of logistic regression and linear discriminant anal
 
 Linear Regression, Logistic Regression, Linear discriminant Analysis
 
-https://www.google.com/search?q=holidays&rlz=1C1CHBF_enIN826IN826&hl=en&sxsrf=AOaemvJo4VqcJ8kiwdjbqWNK5rOhpg90IA:1640257499695&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjW0u-s4_n0AhXqgtgFHRdPCTsQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=9WvYVPZanoVE4M&imgdii=gfafLseYi_pTuM
+![shutterstock-181978181](https://user-images.githubusercontent.com/87828805/147233447-8fd523fe-1765-4859-8c48-3636c21fb341.jpg)
