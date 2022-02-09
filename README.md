@@ -64,3 +64,20 @@ no_older_children 	 Number of older children
 
 foreign 	 foreigner Yes/No
 
+From the above table we can easily find out the values of Accuracy, AUC, Recall, Precision, and F-1 Score of two different model which Logistic Regression and LDA.
+Inference From the above table:-
+From the above table we can easily find out the values of Accuracy, AUC, Recall, Precision, and F-1 Score of two different model which Logistic Regression and LDA.
+Inference From the above table:-
+1) Accuracy is almost same for all except LR test data which is 0.65
+2) AUC for LR train and LDA train has same area under the curve about 0.73 .Whereas LDA test has least AUC of abut 0.70
+3) Recall for LDA test is the highest of about 0.73 and least is for LR test of about 0.51
+4) Precision in LDA test is lacking of about 0.61 while rest are having a value of 065
+5) F1 Score for the LDA test is the highest of about 0.66 whereas LR Test performed poorly of about 0.57
+
+Since we are building a model to predict if a person has opted holiday package or not, for practical purposes, we will be more interested in correctly classifying 1 (having opted claim) than 0(not opted).
+
+
+LDA test model is predicting 73 percent that how many of the actual True data points are identified as True data points by the model which is highest in all other model.
+The F1 score which is  weighted average of Precision and Recall is 66% again shown  by LDA test model which is the highest score which takes both false positives and false negatives into account.
+
+### So LDA is the best model for the company in predicting whether an employee will opt for the package or not.
