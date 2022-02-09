@@ -64,6 +64,8 @@ no_older_children 	 Number of older children
 
 foreign 	 foreigner Yes/No
 
+![image](https://user-images.githubusercontent.com/87828805/153255000-81cc18eb-244a-4f82-9a2f-0eedf5abdec2.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 From the above table we can easily find out the values of Accuracy, AUC, Recall, Precision, and F-1 Score of two different model which Logistic Regression and LDA.
 Inference From the above table:-
 From the above table we can easily find out the values of Accuracy, AUC, Recall, Precision, and F-1 Score of two different model which Logistic Regression and LDA.
